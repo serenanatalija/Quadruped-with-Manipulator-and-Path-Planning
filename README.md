@@ -1,7 +1,4 @@
 # Solution to Excellence in Innovation project <'4.2'> <'Quadruped Robot with a Manipulator'>
-This is a template repo for Excellence in Innovation project solutions.
-
-Please add the following items:
 
 [Program link](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)
 
