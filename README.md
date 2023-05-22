@@ -7,8 +7,6 @@ Authors: Oluwaseun Adewola, Harry Armstrong, Serena Cicin-Sain, Will Foster, Jos
 
 [Program link](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)
 
-[Project link]<Add link to the project description>
-
 
 # Project details
 Project was broken into three subsystems: 
