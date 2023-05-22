@@ -13,6 +13,7 @@ Project was broken into three subsystems:
   1) The quadruped subsystem for implementing a stable walking and turning algorithm using the Raibert Strategy.
   2) Navigation and path planning subsystem for creating effective path planning algorithms for the quadruped to follow.
   3) Manipulator subsystem for the quadruped to pick and place a ball.
+  
   The subsystems were integrated together with a high-level Stateflow and a user-friendly GUI.
 
 # How to run section
