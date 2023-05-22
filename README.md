@@ -1,5 +1,8 @@
 # Solution to Excellence in Innovation project <'4.2'> <'Quadruped Robot with a Manipulator'>
 
+Authors: Oluwaseun Adewola, Harry Armstrong, Serena Cicin-Sain, Will Foster, Joseph Moore, Olivia Organ, Josh Orme-Herbert, Sherif H El Sawwaf
+University of Sheffield
+
 [Program link](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)
 
 [Project link]<Add link to the project description>
