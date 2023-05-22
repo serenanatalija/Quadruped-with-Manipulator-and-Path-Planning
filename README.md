@@ -19,7 +19,12 @@ Project was broken into three subsystems:
   The subsystems were integrated together with a high-level Stateflow and a user-friendly GUI.
 
 # How to run section
-Open 'Final System' and run the Simulink model. Follow instructions using GUI.
+Open "Final System" folder and run the "RunModel" program to see the full system.
+When prompted to input a start location, ball position and end location by the GUI please
+make sure all three have been given positions on the map, if they have not the program
+will crash.
+Depending on how the map is arranged the simulation will take around 2 hours to run on a 
+decent peformance computer.
 
   
 # References
