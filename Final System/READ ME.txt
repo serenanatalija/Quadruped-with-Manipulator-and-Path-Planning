@@ -1,0 +1,6 @@
+Please run the "RunModel" program to see the full system.
+When prompted to input a start location, ball position and end location by the GUI please
+make sure all three have been given positions on the map, if they have not the program
+will crash.
+Depending on how the map is arranged the simulation will take around 2 hours to run on a 
+decent peformance computer.
